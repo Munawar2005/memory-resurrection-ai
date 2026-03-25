@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+requests
+httpx
+redis
+sqlalchemy
+psycopg2-binary
+langchain
+langgraph
+openai
+anthropic
